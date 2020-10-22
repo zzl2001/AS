@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="last">Last</string>
+    <string name="next">Next</string>
+    <string name="bar">进度条</string>
+</resources>

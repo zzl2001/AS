@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DialogMachine" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/db_demo" />
+            <option value="$PROJECT_DIR$/imagecontrol" />
+            <option value="$PROJECT_DIR$/musicplayer2" />
+            <option value="$PROJECT_DIR$/myapp" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/myapplication2" />
+            <option value="$PROJECT_DIR$/student" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/testservice" />
+            <option value="$PROJECT_DIR$/testthread" />
+            <option value="$PROJECT_DIR$/twelveexample" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

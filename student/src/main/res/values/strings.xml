@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TextStudentManager!</string>
+    <string name="app_name">学员管理系统</string>
+    <string name="information_write">学员信息修改</string>
+    <string name="button1">男</string>
+    <string name="button2">女</string>
+    <string name="box1">唱歌</string>
+    <string name="box2">跳舞</string>
+    <string name="box3">健身</string>
+    <string name="myButton">添加学员信息</string>
+    <string name="spinner">请选择</string>
+    <string name="login_success" />
+    <string name="login_fail" />
+    <string name="cancel_success" />
+    <string name="cancel_fail" />
+    <string name="account_empty" />
+    <string name="pwd_empty" />
+    <string name="name_already_exist" />
+    <string name="pwd_not_the_same" />
+    <string name="register_fail" />
+    <string name="register_success" />
+    <string name="pwd_check_empty" />
+    <string name="resetpwd_fail" />
+    <string name="resetpwd_success" />
+    <string name="pwd_not_fit_user" />
+    <string name="name_not_exist" />
+    <string name="pwd_new_empty" />
+</resources>
